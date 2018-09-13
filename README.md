@@ -1,4 +1,1 @@
-####################################
-# Simple Mobile Network Simulation #
-####################################
-
+Simple Mobile Network Simulation
